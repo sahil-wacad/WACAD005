@@ -1,1 +1,1 @@
-arquivolocal.txt
+editando localmente o arquivolocal.txt
